@@ -6,4 +6,5 @@ public class Meme
     public string? Author { get; set; }
     public string? Url { get; set; }
     public string? Likes { get; set; }
+    public string? Text { get; set; }
 }
