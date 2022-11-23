@@ -23,7 +23,7 @@ public class WykopController : ControllerBase
         foreach (var text in textNodes)
         {
             // string href = text.Attributes["href"].Value;
-            memeText.Add(text.InnerHtml);
+            // memeText.Add(text.);
         }
 
         return memeText;
@@ -39,7 +39,6 @@ public class WykopController : ControllerBase
             Url = "url",
             Likes = "123",
             Text = textList[index]
-            
         }
         ).ToArray();
     }

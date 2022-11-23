@@ -2,9 +2,9 @@ namespace MemesApi;
 
 public class Meme
 {
-    public string? Title { get; set; }
-    public string? Author { get; set; }
-    public string? Url { get; set; }
-    public string? Likes { get; set; }
-    public string? Text { get; set; }
+    public string? Title { get; set; } = string.Empty;
+    public string? Author { get; set; } = string.Empty;
+    public string? Url { get; set; } = string.Empty;
+    public string? Likes { get; set; } = string.Empty;
+    public string? Text { get; set; } = string.Empty;
 }
