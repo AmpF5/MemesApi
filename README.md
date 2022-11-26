@@ -1,10 +1,10 @@
 # MemesApi
 
-API for:
+API for few popular pages with funny images 
 
-jbzd.com.pl/
+jbzd.com.pl
 
-wykop.pl/
+wykop.pl
 
 end points for now
 
